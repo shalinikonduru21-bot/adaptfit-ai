@@ -153,7 +153,7 @@ export function Onboarding() {
                   <Flame className="w-12 h-12 text-primary-foreground" />
                 </div>
                 <h1 className="text-4xl font-bold mb-4">
-                  Welcome to <span className="text-gradient-primary">FitAdapt</span>
+                  Welcome to <span className="text-gradient-primary">Fit Flow AI</span>
                 </h1>
                 <p className="text-lg text-muted-foreground mb-8 max-w-md">
                   AI-powered workouts that adapt to your life. No more static plans that don't fit your schedule.
